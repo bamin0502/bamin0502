@@ -42,9 +42,9 @@
   <!--Html-->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <!--JavaScript-->
-  <img src="https://img.shields.io/badge/JavaScript-092E20?style=flat-square&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=white"/>
   <!--TypeScript-->
-  <img src="https://img.shields.io/badge/TypeScript-092E20?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white"/>
   <!--React-->
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white&Color=white"/>
   <br/>
