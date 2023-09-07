@@ -1,7 +1,7 @@
 <div>
   
   <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=안녕하세요%20%20%20%20%F0%9F%A4%97)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=500&section=header&text=안녕하세요!%20-nl-저에%20대해서%20-nl-소개합니다.-nl-%F0%9F%A4%97)
   
 </div>
 
