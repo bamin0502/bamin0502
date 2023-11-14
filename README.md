@@ -71,7 +71,8 @@
   유니티로 만든 첫번째 팀프로젝트<br/>
   https://github.com/bamin0502/ESCAPE-FROM-ISLAND <br/><br/>
   융복합 게임 프로젝트<br/>
-  https://github.com/bamin0502/3D-ProJect <br/><br/>
+  https://github.com/bamin0502/3D-ProJect<br/>
+  결과물 포트폴리오 : https://github.com/bamin0502/Wrinkle-Time-Area<br/><br/>
   그 외에도 프론트엔드 쪽하고 React쪽도 제작중입니다!
 </div>
 
