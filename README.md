@@ -73,7 +73,7 @@
   융복합 게임 프로젝트<br/>
   https://github.com/bamin0502/3D-ProJect<br/>
   결과물 포트폴리오 : https://github.com/bamin0502/Wrinkle-Time-Area<br/><br/>
-  그 외에도 프론트엔드 쪽하고 React쪽도 제작중입니다!
+  그 외에도 UnReal, 프론트엔드 쪽하고 React쪽도 제작중입니다! 퀄리티가 충분하다고 생각될시에 추가적으로 등록됩니다.
 </div>
 
 <!--
