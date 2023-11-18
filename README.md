@@ -67,7 +67,8 @@
 
   ## 지금까지 만든 결과물들 링크
   C#과 Oracle Database를 이용해서 만든 주차관리프로그램<br/>
-  https://wakeup-technologydirectory.tistory.com/9 <br/><br/>
+  설명: https://wakeup-technologydirectory.tistory.com/9 <br/>
+  소스코드: https://github.com/bamin0502/parking-management-program<br/><br/>
   유니티로 만든 첫번째 팀프로젝트(퀄리티가 부족하다고 생각해서 비활성화)<br/>
   https://github.com/bamin0502/ESCAPE-FROM-ISLAND <br/><br/>
   융복합 게임 프로젝트<br/>
