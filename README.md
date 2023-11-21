@@ -30,7 +30,7 @@
   
   ### 사용 툴
   <!--Unity-->
-  <img src="https://img.shields.io/badge/Unity-ffffff?style=flat-square&logo=Unity&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Unity-0E1128?style=flat-square&logo=Unity&logoColor=white"/>
   <!--UnReal-->
   <img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=flat-square&logo=UnrealEngine&logoColor=white"/>
   <!--Rider-->
