@@ -77,7 +77,7 @@
   설명: https://wakeup-technologydirectory.tistory.com/9 <br/>
   소스코드: https://github.com/bamin0502/parking-management-program<br/><br/>
   
-  그 외에도 UnReal, 프론트엔드 쪽하고 React쪽도 제작중입니다! 퀄리티가 충분하다고 생각될시에 추가적으로 등록됩니다.
+  그 외에도 UnReal, 프론트엔드 쪽하고 React쪽도 제작중입니다! 완성도가 어느정도 진행됐으면, 추가적으로 등록됩니다.
 
   유니티로 만든 첫번째 팀프로젝트(퀄리티가 부족하다고 생각해서 비활성화)<br/>
   https://github.com/bamin0502/ESCAPE-FROM-ISLAND <br/><br/>
