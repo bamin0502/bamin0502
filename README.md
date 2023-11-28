@@ -68,15 +68,16 @@
 
 
   ## 지금까지 만든 결과물들 링크
-  C#과 Oracle Database를 이용해서 만든 주차관리프로그램<br/>
+
+   융복합 게임 프로젝트<br/>
+  https://github.com/bamin0502/3D-ProJect<br/>
+  결과물 포트폴리오 : https://github.com/bamin0502/Wrinkle-Time-Area<br/><br/>
+
+   C#과 Oracle Database를 이용해서 만든 주차관리프로그램<br/>
   설명: https://wakeup-technologydirectory.tistory.com/9 <br/>
   소스코드: https://github.com/bamin0502/parking-management-program<br/><br/>
   
-  융복합 게임 프로젝트<br/>
-  https://github.com/bamin0502/3D-ProJect<br/>
-  결과물 포트폴리오 : https://github.com/bamin0502/Wrinkle-Time-Area<br/><br/>
   그 외에도 UnReal, 프론트엔드 쪽하고 React쪽도 제작중입니다! 퀄리티가 충분하다고 생각될시에 추가적으로 등록됩니다.
-
 
   유니티로 만든 첫번째 팀프로젝트(퀄리티가 부족하다고 생각해서 비활성화)<br/>
   https://github.com/bamin0502/ESCAPE-FROM-ISLAND <br/><br/>
