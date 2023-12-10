@@ -68,12 +68,11 @@
 
 
   ## 지금까지 만든 결과물들 링크
+  <!---Unity---->
+  융복합 게임 프로젝트 Wrinkle Time Area<br/>
+  https://github.com/bamin0502/Wrinkle-Time-Area<br/><br/>
 
-   융복합 게임 프로젝트<br/>
-  https://github.com/bamin0502/3D-ProJect<br/>
-  결과물 포트폴리오 : https://github.com/bamin0502/Wrinkle-Time-Area<br/><br/>
-
-   C#과 Oracle Database를 이용해서 만든 주차관리프로그램<br/>
+  C#과 Oracle Database를 이용해서 만든 주차관리프로그램<br/>
   설명: https://wakeup-technologydirectory.tistory.com/9 <br/>
   소스코드: https://github.com/bamin0502/parking-management-program<br/><br/>
   
