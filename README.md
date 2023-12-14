@@ -76,8 +76,9 @@
   설명: https://wakeup-technologydirectory.tistory.com/9 <br/>
   소스코드: https://github.com/bamin0502/parking-management-program<br/><br/>
   <!----알고리즘----->
+  알고리즘 정리 <br>
   https://github.com/bamin0502/Algorithm
-  C++로 작성하며, 조금씩 추가중!
+  <br>C++로 작성하며, 조금씩 추가중!
   
   그 외에도 UnReal, 프론트엔드 쪽하고 React쪽도 제작중입니다! 완성도가 어느정도 진행됐으면, 추가적으로 등록됩니다.
 
