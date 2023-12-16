@@ -57,7 +57,7 @@
 
   ## 포트폴리오 & 알고리즘
   <!---Unity---->
-  융복합 게임 프로젝트 Wrinkle Time Area<br/>
+  Unity3D/융복합 게임 프로젝트 Wrinkle Time Area<br/>
   https://github.com/bamin0502/Wrinkle-Time-Area<br/>
 
   <!----WinForm----->
