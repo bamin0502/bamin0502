@@ -73,7 +73,7 @@
   https://github.com/bamin0502/ESCAPE-FROM-ISLAND <br/><br/>  
 
   ## 🤔 Github Stats
-  [![조회수](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https:// Hits.seeyoufarm.com)                    
+                   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bamin0502&theme=one_dark_pro&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bamin0502&hide=GLSL,ShaderLab,HLSL,C,Shell&layout=compact&size_weight=0.5&count_weight=0.5&theme=one_dark_pro&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
