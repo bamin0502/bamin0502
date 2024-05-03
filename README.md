@@ -56,7 +56,7 @@
   ## 포트폴리오 & 알고리즘
   <!---Unity---->
   Unity3D/융복합 게임 프로젝트 Wrinkle Time Area<br/>
-  https://github.com/bamin0502/Wrinkle-Time-Area<br/>
+  https://github.com/bamin0502/Wrinkle_Time_Area<br/>
 
   <!----WinForm----->
   C#과 Oracle Database를 이용해서 만든 주차관리프로그램<br/>
