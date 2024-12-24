@@ -54,23 +54,8 @@
   <br/>
 
   ## 포트폴리오 & 알고리즘
-  <!---Unity---->
-  Unity3D/융복합 게임 프로젝트 Wrinkle Time Area<br/>
-  https://github.com/bamin0502/Wrinkle_Time_Area<br/>
-
-  <!----WinForm----->
-  C#과 Oracle Database를 이용해서 만든 주차관리프로그램<br/>
-  설명: https://wakeup-technologydirectory.tistory.com/9 <br/>
-  소스코드: https://github.com/bamin0502/parking-management-program<br/>
-  <!----알고리즘----->
-  알고리즘 정리 <br>
-  https://github.com/bamin0502/Algorithm
-  <br>C++로 작성하며, 조금씩 추가중!
-  
-  그 외에도 UnReal, 프론트엔드 쪽하고 React쪽도 제작중입니다! 완성도가 어느정도 진행됐으면, 추가적으로 등록됩니다.
-
-  유니티로 만든 첫번째 팀프로젝트(퀄리티가 부족하다고 생각해서 비활성화)<br/>
-  https://github.com/bamin0502/ESCAPE-FROM-ISLAND <br/><br/>  
+  https://www.notion.so/gisangsageon/acfe51a10f8e4e73a3a80f998dfe0b67?pvs=4
+  <br>진행하신 포트폴리오를 해당 링크를 통해서 확인하실수 있습니다!
 
   ## 🤔 Github Stats
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbamin0502&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)                   
