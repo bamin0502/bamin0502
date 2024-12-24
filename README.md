@@ -54,8 +54,37 @@
   <br/>
 
   ## 포트폴리오 & 알고리즘
-  https://www.notion.so/gisangsageon/acfe51a10f8e4e73a3a80f998dfe0b67?pvs=4
-  <br>진행하신 포트폴리오를 해당 링크를 통해서 확인하실수 있습니다!
+  ### UNITY
+  2024/07/03~2024/09/02(62일) 2D 디펜스 모바일 게임(손꾸락)
+  <br>https://www.notion.so/gisangsageon/12e13d377f53800cb0dceda52b82b861?pvs=4
+  <br>
+
+  2024/05/09~2024/05/31(22일) 하이퍼 캐쥬얼 3D 러너 모바일 게임(RunAway)
+  <br>https://www.notion.so/gisangsageon/RunAway-9ab35d8decf84ac09bbfb764fb85be46?pvs=4
+  <br>
+
+  2023/03/02~2023/11/16(목요일만 진행) 협동 보스 레이드 PC 게임(Wrinkle Time Area)
+  <br>https://www.notion.so/gisangsageon/Wrinkle-Time-Area-a5ea156975f44cd18e34705f9a20e76f?pvs=4
+  <br>
+
+  2022/09/02~2022/12/23 공포 탈출 게임(Escape From Island)
+  <br>https://www.notion.so/gisangsageon/Escape-From-Island-d65dc03b37f547a9b5d2ee0062910f76?pvs=4
+  <br>
+
+  ### SFML
+  2024/03/18~2024/03/29(12일) Ninja Baseball Batman(모작)
+  <br>https://www.notion.so/gisangsageon/SFML-Ninja-Baseball-Bat-man-5c7e4c00b84342959167e62101d81031?pvs=4
+  <br>
+
+  2024/03/05~2024/03/18(14일) JumpKing(모작)
+  <br>https://www.notion.so/gisangsageon/SFML-JumpKing-4bcf9423aea74b9a99c74a08b8947f3b?pvs=4
+  <br>
+
+  ### WinForm
+  2022/09/06~ 2022/12/27 주차관리프로그램
+  <br>https://www.notion.so/gisangsageon/7dbd11bcc80d47f4a891e86ad0470197?pvs=4
+  <br>
+  
 
   ## 🤔 Github Stats
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbamin0502&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)                   
