@@ -44,7 +44,7 @@
   <!--TypeScript-->
   <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white"/>
   
-  ### 데이터 베이스 소개
+  ### 서버 및 DBMS 소개
   <!--Amazon AWS-->
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
   <!--Oracle-->
