@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <br/>
 
-  ## 포트폴리오 & 알고리즘
+  ## 포트폴리오
   ### UNITY
   2024/07/03~2024/09/02(62일) 2D 디펜스 모바일 게임(손꾸락)
   <br>https://www.notion.so/gisangsageon/12e13d377f53800cb0dceda52b82b861?pvs=4
