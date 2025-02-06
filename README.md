@@ -16,9 +16,9 @@
   <!--C++-->
   <img src="https://img.shields.io/badge/C++-3776AB?style=flat-square&logo=cplusplus&logoColor=white"/>
   <!--C#-->
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=C-sharp&logoColor=white"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white"/>
   
-  ### 사용하는 에디터
+  ### 사용하는 에디터 및 Tool
   <!--Unity-->
   <img src="https://img.shields.io/badge/Unity-0E1128?style=flat-square&logo=Unity&logoColor=white"/>
   <!--UnReal-->
@@ -28,27 +28,19 @@
   <!--IntelliJ IDEA-->
   <img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
   <!--Visual Studio-->
-  <img src="https://img.shields.io/badge/Visual Studio-5c2d91?style=flat-square&logo=visualstudio&logoColor=white"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white"/>
   <!--Git Hub-->
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"> 
+  <!--Figma-->
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white">
+  <!--Notion-->
+  <img src="https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff">
   
-  ### 프론트 전용 언어 소개 
-  <!--Html-->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-  <!--React-->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white&Color=white"/>
-  <!--CSS-->
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-  <!--JavaScript-->
-  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=white"/>
-  <!--TypeScript-->
-  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white"/>
-  
-  ### 서버 및 DBMS 소개
+  ### 클라우드 서버 및 DBMS
   <!--Amazon AWS-->
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white"/>
   <!--Oracle-->
-  <img src="https://img.shields.io/badge/Oracle-f80000?style=flat-square&logo=oracle&logoColor=white"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff"/>
   <!--MySQL-->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <br/>
