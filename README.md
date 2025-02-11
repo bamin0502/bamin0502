@@ -18,7 +18,7 @@
   <!--C#-->
   <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white"/>
   
-  ### 사용하는 에디터 및 Tool
+  ### 사용하는 게임 엔진 및 Tool
   <!--Unity-->
   <img src="https://img.shields.io/badge/Unity-0E1128?style=flat-square&logo=Unity&logoColor=white"/>
   <!--UnReal-->
