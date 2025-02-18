@@ -1,8 +1,6 @@
-![image](https://github.com/user-attachments/assets/baf90b14-12a9-4d16-bad7-889b89960bdc)<div>  
-<!--Header-->
-  
+<!--Header-->  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&section=header&text=안녕하세요!%20-nl-저에%20대해서%20-nl-소개합니다.-nl-%F0%9F%A4%97)  
-</div>
+
 
 <div>
   <!--Body-->
