@@ -1,4 +1,4 @@
-<div>  
+![image](https://github.com/user-attachments/assets/baf90b14-12a9-4d16-bad7-889b89960bdc)<div>  
 <!--Header-->
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&section=header&text=안녕하세요!%20-nl-저에%20대해서%20-nl-소개합니다.-nl-%F0%9F%A4%97)  
@@ -48,15 +48,18 @@
   ## 포트폴리오
   ### UNITY
   2024/07/03~2024/09/02(62일) 2D 디펜스 모바일 게임(손꾸락)
-  <br>https://www.notion.so/gisangsageon/12e13d377f53800cb0dceda52b82b861?pvs=4
+  <br>
+  [![다운로드](https://img.shields.io/badge/📥%20Download-PDF-blue)](https://drive.google.com/uc?export=download&id=1JH9r52GHVz0F7ybZgl_8vUYVYCxQRUPC)
   <br>
 
   2024/05/09~2024/05/31(22일) 하이퍼 캐쥬얼 3D 러너 모바일 게임(RunAway)
-  <br>https://www.notion.so/gisangsageon/RunAway-9ab35d8decf84ac09bbfb764fb85be46?pvs=4
+  <br>
+  [![다운로드](https://img.shields.io/badge/📥%20Download-PDF-blue)](https://drive.google.com/uc?export=download&id=1NsuyjqE0l0-FMpniNYC9_sDOdjdcIAQ8)
   <br>
 
   2023/03/02~2023/11/16(목요일만 진행) 협동 보스 레이드 PC 게임(Wrinkle Time Area)
-  <br>https://www.notion.so/gisangsageon/Wrinkle-Time-Area-a5ea156975f44cd18e34705f9a20e76f?pvs=4
+  <br>
+  [![📥 다운로드](https://img.shields.io/badge/📥%20Download-PDF-blue)](https://drive.google.com/uc?export=download&id=1-f4mHu2hXtPnKzWLGT-oApNL95CHgh-A)
   <br>
 
   2022/09/02~2022/12/23 공포 탈출 게임(Escape From Island)
@@ -65,18 +68,29 @@
 
   ### SFML
   2024/03/18~2024/03/29(12일) Ninja Baseball Batman(모작)
-  <br>https://www.notion.so/gisangsageon/SFML-Ninja-Baseball-Bat-man-5c7e4c00b84342959167e62101d81031?pvs=4
+  <br>
+  [![📥 다운로드](https://img.shields.io/badge/📥%20Download-PDF-blue)](https://drive.google.com/uc?export=download&id=1FXnpiBkZDMn16Tvper34-UbSKSq-j6gl)
   <br>
 
   2024/03/05~2024/03/18(14일) JumpKing(모작)
-  <br>https://www.notion.so/gisangsageon/SFML-JumpKing-4bcf9423aea74b9a99c74a08b8947f3b?pvs=4
+  <br>
+  [![📥 다운로드](https://img.shields.io/badge/📥%20Download-PDF-blue)](https://drive.google.com/uc?export=download&id=1fE7amTTTs5a1NGmZ719QmBQRHkCq0kP0)
   <br>
 
   ### WinForm
   2022/09/06~ 2022/12/27 주차관리프로그램
-  <br>https://www.notion.so/gisangsageon/7dbd11bcc80d47f4a891e86ad0470197?pvs=4
   <br>
+  [![📥 다운로드](https://img.shields.io/badge/📥%20Download-PDF-blue)](https://drive.google.com/uc?export=download&id=147rQOimv3tBm79j5fiX0zTb6EVDB-Y1W)
+  <br>
+
   
+
+
+
+
+
+
+
 
   ## 🤔 Github Stats
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbamin0502&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)                   
