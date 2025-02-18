@@ -61,7 +61,8 @@
   <br>
 
   2022/09/02~2022/12/23 공포 탈출 게임(Escape From Island)
-  <br>https://www.notion.so/gisangsageon/Escape-From-Island-d65dc03b37f547a9b5d2ee0062910f76?pvs=4
+  <br>
+  [![🌴 Escape From Island 이동](https://img.shields.io/badge/🌴%20Escape%20From%20Island-Notion-blue)](https://www.notion.so/gisangsageon/Escape-From-Island-d65dc03b37f547a9b5d2ee0062910f76?pvs=4)
   <br>
 
   ### SFML
